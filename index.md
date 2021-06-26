@@ -12,3 +12,9 @@ HOW TO PLAY:
     
     4.If you not click the bomb , you win
    
+
+Code Picture:
+
+
+    1.Basic Setting:
+        "basic setting.PNG"
