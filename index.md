@@ -1,4 +1,4 @@
-Hi
+Hi, my name is Eric Huang
 
 It my work.
 
@@ -32,6 +32,8 @@ Code Picture:
 ![image](DOWNsideblank.png)
         
 ![image](UPsideblank.png)
+
+Video:
 
 
 
