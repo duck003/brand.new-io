@@ -17,10 +17,10 @@ Code Picture:
 
 
     1.Basic Setting:
-        ![image](basic settings.PNG)
+        ![image](basicsettings.png)
     
     2.Bomb part:
-        ![image](The bomb.PNG)
+        ![image](Thebomb.png)
         
      
      
