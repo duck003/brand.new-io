@@ -15,12 +15,13 @@ HOW TO PLAY:
 
 Code Picture:
 
+1.Basic Setting:
 
-    1.Basic Setting:
-        ![image](basicsettings.png)
-    
-    2.Bomb part:
-        ![image](Thebomb.png)
+![image](basicsetting.png)
+
+2.Bomb part:
+
+![image](Thebomb.png)
         
      
      
