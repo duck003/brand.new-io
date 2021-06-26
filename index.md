@@ -22,6 +22,17 @@ Code Picture:
 2.Bomb part:
 
 ![image](Thebomb.png)
+
+3.Flag part:
+
+![image](flag.PNG)
+
+4.Blank part:
+
+![image](DOWNsideblank.png)
         
-     
+![image](UPsideblank.png)
+
+
+
      
